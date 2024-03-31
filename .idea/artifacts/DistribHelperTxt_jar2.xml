@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DistribHelperTxt:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/DistribHelperTxt_jar2</output-path>
+    <root id="archive" name="DistribHelperTxt.jar">
+      <element id="module-output" name="DistribHelperTxt" />
+    </root>
+  </artifact>
+</component>
